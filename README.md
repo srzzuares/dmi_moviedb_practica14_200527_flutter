@@ -27,17 +27,16 @@ Practica 14
 El widget `MediaDetail` es un widget Flutter que muestra información detallada sobre un elemento multimedia, incluyendo su título, póster, calificación y descripción general. Crea una interfaz de usuario visualmente atractiva combinando un fondo de imagen con un efecto de desenfoque y superponiendo los detalles del elemento multimedia. |
 | Fecha de Carga | 3/11/23 |
 
-|   No.    |      Pruebas       |
-| :------: | :----------------: |
-| Capturas | <p align="center"> |
 
-  <img src="./assets/a11.jpeg" width="200" alt="Captura de Pantalla 1.1">
-  <img src="./assets/a22.jpeg" width="200" alt="Captura de Pantalla 1.2">
-  <img src="./assets/b.jpg" width="200" alt="Captura de Pantalla 2">
-  <img src="./assets/d.jpg" width="200" alt="Captura de Pantalla 4">
-  <img src="./assets/f.jpg" width="200" alt="Captura de Pantalla 6">
+ <p align="center">
+
+  <img src="./assets/pruebas/p-1.png" width="200" alt="Captura de Pantalla 1.1">
+  <img src="./assets/pruebas/p-2.png" width="200" alt="Captura de Pantalla 1.2">
+  <img src="./assets/pruebas/p-3.png" width="200" alt="Captura de Pantalla 2">
+  <img src="./assets/pruebas/p-4.png" width="200" alt="Captura de Pantalla 4">
+  <img src="./assets/pruebas/p-5.png" width="200" alt="Captura de Pantalla 6">
  
-</p>  |
+</p> 
 
 ## Instalación
 
