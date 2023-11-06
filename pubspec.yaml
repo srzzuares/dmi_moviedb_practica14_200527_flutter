@@ -1,0 +1,65 @@
+name: dmi_moviedb_practica14_200527_flutter
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  google_nav_bar: ^5.0.6
+  http: ^1.1.0
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_native_splash: ^2.3.3
+  flutter_launcher_icons: ^0.13.1
+flutter_icons:
+  android: "ic_launcher"
+  ios: true
+  image_path: "assets/icon/Logo.png"
+  web:
+    generate: true
+    image_path: "assets/icon/Logo.png"
+  windows:
+    generate: true
+    image_path: "assets/icon/Logo.png"
+    icon_size: 48 # min:48, max:256, default: 
+  # flutter pub run flutter_launcher_icons:main Run in Terminal for generate icons 
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+  - assets/img/waitting2.gif
+  - assets/img/waitting.png
+  - assets/img/Back.png
+  - assets/img/Back2.png
+  - assets/icon/MovieTube_Logo.png
+  - assets/icon/Logo.png
+  - assets/icon/Logo1.png
+  - assets/fonts/BebasNeue.ttf
+  - assets/poster.jpg
+  - assets/icono.png
+  - assets/placeholder.gif
+  - assets/1.png
+  - assets/2.png
+  - assets/3.png
+  #   - images/a_dot_ham.jpeg
+
+
+
+  fonts:
+  - family: Bebas
+    fonts:
+    - asset: assets/fonts/BebasNeue.ttf
+
